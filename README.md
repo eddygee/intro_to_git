@@ -15,9 +15,9 @@ Create github account
 
 Intro to Git
 
+- http://blog.scottlowe.org/2015/01/14/non-programmer-git-intro/
 - https://git-scm.com/video/what-is-git
 - http://rogerdudler.github.io/git-guide/
-- http://blog.scottlowe.org/2015/01/14/non-programmer-git-intro/
 - https://try.github.io/levels/1/challenges/1
 
 
