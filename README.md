@@ -34,3 +34,10 @@ Git for team through command line
 Homework
 =======
 Upload your current projects to github
+
+
+
+
+Extras
+======
+- https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
