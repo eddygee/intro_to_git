@@ -61,7 +61,9 @@ Git for team through command line
 Homework
 =======
 Create new Github repos for each of your existing projects.
-To get credit, you must email me your repository link to mail@egeelabs.com. ie) https://github.com/eddygee?tab=repositories
+**To get credit, you must email me your repository link to mail@egeelabs.com.**
+
+ie) https://github.com/eddygee?tab=repositories
 
 
 
