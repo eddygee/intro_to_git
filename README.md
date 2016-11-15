@@ -32,6 +32,7 @@ Git for Individual through Github
 
 
 Git for team through command line
+- Adding Collaborators
 - Branching
 - Merging
 
