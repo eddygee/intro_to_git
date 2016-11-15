@@ -26,9 +26,10 @@ Intro to Git
 
 
 
-How to structure your repository
+Repository Tips
 - New repo for every project
 - Lowercase foldernames
+- Commit early, commit often
 
 
 Git for Individual through command line
