@@ -9,7 +9,6 @@ Install Git
 - [Windows](https://git-for-windows.github.io/)
 -- [Recommended with these settings](https://raw.githubusercontent.com/zaggino/brackets-git/master/screenshots/gitInstall.png)
 - [Mac](https://git-scm.com/download/mac)
-- [Brackets extension](https://github.com/zaggino/brackets-git)
 
 
 Create github account
@@ -44,6 +43,10 @@ Git for Individual through Github
 - Edits
 - Merging
 - Branches
+
+
+Git through Brackets
+- [Brackets extension](https://github.com/zaggino/brackets-git)
 
 
 Git for team through command line
