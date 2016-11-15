@@ -11,6 +11,7 @@ Install Git
 - [Brackets extension](https://github.com/zaggino/brackets-git)
 
 Create github account
+- [Github](https://github.com/)
 
 Intro to Git
 
