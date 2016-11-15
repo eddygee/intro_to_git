@@ -24,11 +24,21 @@ Intro to Git
 
 
 How to structure your repository
+- New repo for every project
+- lowercase foldernames
 
 Git for Individual through command line
+- Cloning
+- Strarting a new repo
+- Add
+- Commit
+- Push
+- Pull
 
 Git for Individual through Github
-
+- Edits
+- Merging
+- Branches
 
 
 Git for team through command line
@@ -46,4 +56,5 @@ Create new Github repos for each of your existing projects.
 
 Extras
 ======
+- (https://github.com/dbashyal/Tips-And-Tricks/blob/master/tips/Git_Tips_And_Tricks.md)
 - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
