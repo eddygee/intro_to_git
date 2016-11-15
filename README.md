@@ -38,7 +38,7 @@ Git for team through command line
 
 Homework
 =======
-Upload your current projects to github
+Create new Github repos for each of your existing projects.
 
 
 
