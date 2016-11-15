@@ -64,6 +64,14 @@ Create new Github repos for each of your existing projects.
 
 
 
+Demo Repos to clone
+===================
+- https://github.com/trending
+- https://github.com/h5bp/html5-boilerplate
+- https://github.com/aaronkai/html5-bootstrap
+- https://github.com/jquery-boilerplate/jquery-boilerplate
+
+
 
 Extras
 ======
