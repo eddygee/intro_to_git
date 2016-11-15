@@ -56,6 +56,7 @@ Git for team through command line
 - Adding Collaborators
 - Branching
 - Merging
+- Forking
 
 
 Homework
