@@ -14,6 +14,7 @@ Install Git
 
 Create github account
 - [Github](https://github.com/)
+- [Bitbucket - Alternative](https://bitbucket.org/)
 
 
 Intro to Git
