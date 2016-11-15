@@ -5,6 +5,10 @@ What is a repository?
 Git -vs Github/BitBucket
 
 Install Git
+- [Windows]: https://git-for-windows.github.io/
+-- [Recommended with these settings]: https://raw.githubusercontent.com/zaggino/brackets-git/master/screenshots/gitInstall.png
+- [Mac]: https://git-scm.com/download/mac
+- [Brackets extension]: https://github.com/zaggino/brackets-git
 
 Create github account
 
