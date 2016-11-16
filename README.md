@@ -67,6 +67,27 @@ Create new Github repos for each of your existing projects.
 ie) https://github.com/eddygee?tab=repositories
 
 
+List remote repos
+=============
+git remote -v
+# View current remotes
+origin  https://github.com/OWNER/REPOSITORY.git (fetch)
+origin  https://github.com/OWNER/REPOSITORY.git (push)
+destination  https://github.com/FORKER/REPOSITORY.git (fetch)
+destination  https://github.com/FORKER/REPOSITORY.git (push)
+
+
+Remove link to remove repo
+=======================
+git remote rm destination
+# Remove remote
+git remote -v
+# Verify it's gone
+origin  https://github.com/OWNER/REPOSITORY.git (fetch)
+origin  https://github.com/OWNER/REPOSITORY.git (push)
+
+
+
 
 Demo Repos to clone
 ===================
