@@ -80,6 +80,8 @@ destination  https://github.com/FORKER/REPOSITORY.git (push)
 Remove link to remove repo
 =======================
 git remote rm destination
+
+
 # Remove remote
 git remote -v
 # Verify it's gone
