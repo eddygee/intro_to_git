@@ -1,7 +1,7 @@
 # Intro To Git
 
 
-Questions? Email mail[at]egeelabs.com
+Questions? Email me mail[at]egeelabs.com
 
 What is a repository?
 
