@@ -1,5 +1,8 @@
 # Intro To Git
 
+
+Questions? Email mail[at]egeelabs.com
+
 What is a repository?
 
 Git -vs Github/BitBucket
