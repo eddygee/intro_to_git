@@ -87,7 +87,7 @@ git remote rm origin
 # Restart repo
 rm -rf .git
 git init
-git remote add origin {https://github.com/OWNER/REPOSITORY.git}
+git remote add origin https://github.com/OWNER/REPOSITORY.git
 
 
 # Verify it's gone
