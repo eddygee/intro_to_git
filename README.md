@@ -26,6 +26,8 @@ Intro to Git
 - https://git-scm.com/video/what-is-git
 - http://rogerdudler.github.io/git-guide/
 - https://try.github.io/levels/1/challenges/1
+- http://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+- https://guides.github.com/
 
 
 
